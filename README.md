@@ -7,6 +7,8 @@
 ## 💡 The Vision
 This project demonstrates a complete, AI-augmented system for creating, adapting, and automating high-converting DM funnel copy. It combines **strategic marketing frameworks** with **AI prompt engineering** and **automation workflows** to deliver scalable, on-brand copy at the speed of light.
 
+| **Live Test Results** | Real Claude outputs proving all prompts work | [`examples/test-results.md`](examples/test-results.md) |
+
 ## 🧠 The Core Framework
 At the heart of this system is a proven **4-step DM funnel strategy** (see `/framework/master-guide.md`), designed for webinar promotion. The framework defines the exact KPIs for each step, from opt-in to sales conversion.
 
