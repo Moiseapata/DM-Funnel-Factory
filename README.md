@@ -1,6 +1,6 @@
 # 🚀 DM Funnel Factory – Automated Copy System for High-Ticket Webinars
 
-**By [Votre Nom] – For School of Bots Interview**
+**By Moise A – For School of Bots Interview**
 
 ---
 
@@ -40,3 +40,31 @@ This isn't just theory. The system includes:
 ---
 
 **Ready to scale DM copy without losing the human touch.**
+
+
+## 🎨 The Brand Voice Matrix
+
+One webinar concept. Three distinct brand voices:
+
+| Prince EA | Nike | Mindvalley |
+|:---|:---|:---|
+| Inspirational & storytelling | Direct & action-oriented | Mysterious & spiritual |
+| "Imagine waking up knowing your course is transforming lives..." | "Want to launch your course fast? Here's how." | "What if launching was simpler than you think? Discover the hidden path." |
+
+## 🤖 AI vs. Human: The Optimization Layer
+
+I included a side-by-side comparison showing how **raw AI output** is refined into **high-converting copy** through human optimization. The difference? Specificity, emotional intelligence, and psychological triggers that AI alone cannot replicate.
+
+## ⚡ Automation Blueprint
+
+The system includes a ready-to-implement workflow using **Make.com** that:
+1. Takes a client brief from Google Sheets
+2. Routes it through engineered Claude prompts
+3. Generates a complete 4-step DM funnel
+4. Delivers it to a Slack channel for team review
+
+[See full blueprint →](automation/automation-blueprint.md)
+
+---
+
+**This isn't just a copywriting portfolio. It's a scalable copywriting system.**
