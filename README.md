@@ -9,6 +9,9 @@ This project demonstrates a complete, AI-augmented system for creating, adapting
 
 | **Live Test Results** | Real Claude outputs proving all prompts work | [`examples/test-results.md`](examples/test-results.md) |
 
+| **Funnel Audit (KPIs)** | Diagnostic & optimization of an underperforming webinar funnel | [`framework/funnel-audit.md`](framework/funnel-audit.md) |
+| **A/B Testing Framework** | Sales DM variants with conversion predictions and rationale | [`framework/ab-tests.md`](framework/ab-tests.md) |
+
 ## 🧠 The Core Framework
 At the heart of this system is a proven **4-step DM funnel strategy** (see `/framework/master-guide.md`), designed for webinar promotion. The framework defines the exact KPIs for each step, from opt-in to sales conversion.
 
